@@ -1,0 +1,21 @@
+{
+  "name": "dropbox",
+  "homepage": "https://github.com/avdesign/dropbox",
+  "authors": [
+    "AV Design"
+  ],
+  "description": "Projeto desenvolvido por Anselmo Velame",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ionicons": "ionicons#^2.0.1",
+    "bootstrap": "^4.1.0"
+  }
+}
